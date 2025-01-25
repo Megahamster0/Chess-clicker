@@ -1,1 +1,1 @@
-# Hamster-Clicker
+# Chess-clicker
